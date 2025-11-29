@@ -1,0 +1,2 @@
+# rickyrnt's Advent of Code 2025 solutions
+I like to use Advent of Code in order to teach myself or grow my skills in a language. 2022 I used C++, 2023 and 2024 I used Python, and this year I'll be using Rust. I've never used Rust before now, so I'm hoping for this to be a fun learning experience! 
